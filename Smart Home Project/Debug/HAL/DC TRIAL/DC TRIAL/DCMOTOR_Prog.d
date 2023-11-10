@@ -1,0 +1,21 @@
+HAL/DC\ TRIAL/DC\ TRIAL/DCMOTOR_Prog.d \
+  HAL/DC\ TRIAL/DC\ TRIAL/DCMOTOR_Prog.o:  \
+ ../HAL/DC\ TRIAL/DC\ TRIAL/DCMOTOR_Prog.c \
+  ../HAL/DC\ TRIAL/DC\ TRIAL/DCMOTOR_Interface.h \
+  ../HAL/DC\ TRIAL/DC\ TRIAL/DCMOTOR_Config.h \
+  ../HAL/DC\ TRIAL/DC\ TRIAL/DCMOTOR_Types.h \
+  ../HAL/DC\ TRIAL/DC\ TRIAL/TIMERS_registers.h \
+  ../HAL/DC\ TRIAL/DC\ TRIAL/DIO.h \
+  ../HAL/DC\ TRIAL/DC\ TRIAL/common_macros.h
+
+../HAL/DC\ TRIAL/DC\ TRIAL/DCMOTOR_Interface.h:
+
+../HAL/DC\ TRIAL/DC\ TRIAL/DCMOTOR_Config.h:
+
+../HAL/DC\ TRIAL/DC\ TRIAL/DCMOTOR_Types.h:
+
+../HAL/DC\ TRIAL/DC\ TRIAL/TIMERS_registers.h:
+
+../HAL/DC\ TRIAL/DC\ TRIAL/DIO.h:
+
+../HAL/DC\ TRIAL/DC\ TRIAL/common_macros.h:
